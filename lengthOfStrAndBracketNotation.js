@@ -14,3 +14,9 @@ var firstLetterOfName = "";
 
 firstLetterOfName = strName[0];
 console.log(firstLetterOfName);
+
+// Using bracket notation to find the nth character
+firstLetterOfName = strName[3];
+console.log(firstLetterOfName);
+firstLetterOfName = strName[strName.length -1];
+console.log(firstLetterOfName);
